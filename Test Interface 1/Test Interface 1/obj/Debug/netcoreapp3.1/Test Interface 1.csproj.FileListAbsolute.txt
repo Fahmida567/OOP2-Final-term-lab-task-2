@@ -1,0 +1,13 @@
+G:\New folder (2)\Test Interface 1\Test Interface 1\bin\Debug\netcoreapp3.1\Test Interface 1.exe
+G:\New folder (2)\Test Interface 1\Test Interface 1\bin\Debug\netcoreapp3.1\Test Interface 1.deps.json
+G:\New folder (2)\Test Interface 1\Test Interface 1\bin\Debug\netcoreapp3.1\Test Interface 1.runtimeconfig.json
+G:\New folder (2)\Test Interface 1\Test Interface 1\bin\Debug\netcoreapp3.1\Test Interface 1.runtimeconfig.dev.json
+G:\New folder (2)\Test Interface 1\Test Interface 1\bin\Debug\netcoreapp3.1\Test Interface 1.dll
+G:\New folder (2)\Test Interface 1\Test Interface 1\bin\Debug\netcoreapp3.1\Test Interface 1.pdb
+G:\New folder (2)\Test Interface 1\Test Interface 1\obj\Debug\netcoreapp3.1\Test Interface 1.csprojAssemblyReference.cache
+G:\New folder (2)\Test Interface 1\Test Interface 1\obj\Debug\netcoreapp3.1\Test Interface 1.AssemblyInfoInputs.cache
+G:\New folder (2)\Test Interface 1\Test Interface 1\obj\Debug\netcoreapp3.1\Test Interface 1.AssemblyInfo.cs
+G:\New folder (2)\Test Interface 1\Test Interface 1\obj\Debug\netcoreapp3.1\Test Interface 1.csproj.CoreCompileInputs.cache
+G:\New folder (2)\Test Interface 1\Test Interface 1\obj\Debug\netcoreapp3.1\Test Interface 1.dll
+G:\New folder (2)\Test Interface 1\Test Interface 1\obj\Debug\netcoreapp3.1\Test Interface 1.pdb
+G:\New folder (2)\Test Interface 1\Test Interface 1\obj\Debug\netcoreapp3.1\Test Interface 1.genruntimeconfig.cache
