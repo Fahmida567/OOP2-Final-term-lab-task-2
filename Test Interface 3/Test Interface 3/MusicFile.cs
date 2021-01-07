@@ -13,6 +13,10 @@ namespace Test_Interface_3
 
         public MusicFile()
         {
+            title = "In thje end";
+            artist = "Linkin Park";
+            yearOfRelease = 2018;
+            durationInSeconds = 4;
 
         }
         public MusicFile(String title,String artist,int yearOfRelease,int durationInSeconds)
